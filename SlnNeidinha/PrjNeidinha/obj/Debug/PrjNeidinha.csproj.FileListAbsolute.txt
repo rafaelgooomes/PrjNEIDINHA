@@ -1,0 +1,17 @@
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\bin\Debug\PrjNeidinha.exe.config
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\bin\Debug\PrjNeidinha.exe
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\bin\Debug\PrjNeidinha.pdb
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.csproj.AssemblyReference.cache
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.Properties.Resources.resources
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.csproj.GenerateResource.cache
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.csproj.CoreCompileInputs.cache
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.exe
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.pdb
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.Cadastrar_Funcionario.resources
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.Cadastrar_Produto.resources
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.Estoque.resources
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.Inicio.resources
+F:\Downloads\PROJETOS\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.Login.resources
+C:\Users\rafael.gsilva48\Downloads\SlnNeidinha\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.csproj.AssemblyReference.cache
+C:\Users\rafael.gsilva48\Downloads\SlnNeidinha\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.gsilva48\Downloads\SlnNeidinha\SlnNeidinha\PrjNeidinha\obj\Debug\PrjNeidinha.pdb
